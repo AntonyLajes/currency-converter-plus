@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter +</string>
+    <string name="logo_image_desc">Logo image</string>
+    <string name="swap_image">Swap Image</string>
+    <string name="input_amount_hint">123</string>
+    <string name="app_credits">Developed by: <a href="https://github.com/AntonyLajes">github.com/AntonyLajes</a></string>
+</resources>
