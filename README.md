@@ -7,4 +7,5 @@ A aplicação se baseia em trazer tipos de moedas de uma API e fazer a conversã
 
 ## Layout
 ![Splash-Activity](https://user-images.githubusercontent.com/83928227/206010725-70600b2c-9bd5-4764-bed3-37137786ccc0.png)
+![Main-Activity](https://user-images.githubusercontent.com/83928227/206011066-412d755a-38aa-4def-a6e7-b15074e5dbec.png)
 
