@@ -6,4 +6,4 @@ Currency Converter Plus é uma aplicação full stack mobile desenvolvida para c
 A aplicação se baseia em trazer tipos de moedas de uma API e fazer a conversão usando outra API.
 
 ##Layout
-!.[MOBILE 1].(https://github.com/AntonyLajes/assets/blob/main/Splash-Activity.png)
+!.[Mobile 1].(https://github.com/AntonyLajes/assets/blob/main/Splash-Activity.png) !.[Mobile 2].(https://github.com/AntonyLajes/assets/blob/main/Splash-Activity.png)
